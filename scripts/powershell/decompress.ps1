@@ -1,3 +1,4 @@
+#Example
 #Invoke-Expression $(New-Object IOStreamReader ($(New-Object IOCompressionDeflateStream ($(New-Object IOMemoryStream (,$([Convert]::FromBase64String('<***BASE64__DATA***>')))), [IOCompressionCompressionMode]::Decompress)), [TextEncoding]::ASCII))ReadToEnd();
 
 $base64data = "insert compressed and base64 data here"
