@@ -9,8 +9,8 @@ import os
 #Output from Office365 UAL export or https://github.com/jrentenaar/Office-365-Extractor
 #
 #Grep
-#cat ../SearchTermsOrUserList | while read item; do echo "Processing $item" && grep -F -i $item * > ../newgreps/$item.UAL.grep.csv; done
-#
+#cat ../SearchTermsOrUserList | while read item; do echo "Processing $item" && grep -F -i $item * > ../csvs/$item.UAL.grep.csv; done
+#cat ../ipsofinterest | while read item; do echo "Processing $item" && grep -F -i $item * >> ../csvs/ipsofinterest.UAL.grep.csv; done
 #Bash loop
 #for f in *.csv; do echo "Processing $f file.." && python3 o365-UAL-flatten-json-to-csv.py -f $f > $f.flat.csv; done
 
@@ -86,7 +86,7 @@ if (args.file):
 		else:
 			#myjson = json.dumps(csvdata)
 			data = pd.read_json(json.dumps(csvdata))
-			print(data.to_csv(header=False, index=False))
+			print(data.to_csv(header=True, index=False))
 			#data.to_csv("output.csv")
 #Cleanup temp File
 if os.path.exists("tempfile.csv"):
