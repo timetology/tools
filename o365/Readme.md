@@ -7,6 +7,8 @@
 * [O365 Exchange Auditing](https://docs.microsoft.com/en-us/exchange/security-and-compliance/exchange-auditing-reports/exchange-auditing-reports)
 * [Search the audit log in the Security & Compliance Center -- As well as an outline and links to what is audited](https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [O365 SIEM Integration](https://docs.microsoft.com/en-us/cloud-app-security/siem)
+* (Identity and device access configurations)[https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-policies-configurations)
+* (What is Conditional Access?)[https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview]
 ## Tools
 * [Find all Inbox Rules that forward mail externally from Office 365 using PowerShell](https://gcits.com/knowledge-base/find-inbox-rules-forward-mail-externally-office-365-powershell/)
 * [Block Inbox Rules from forwarding mail externally in your own Office 365 tenant using PowerShell](https://gcits.com/knowledge-base/block-inbox-rules-forwarding-mail-externally-office-365-using-powershell/)
