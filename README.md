@@ -6,8 +6,8 @@
 * https://ericzimmerman.github.io/#!index.md
 #### $MFT
 * https://github.com/dkovar/analyzeMFT
-* https://github.com/EricZimmerman/MFTECmd (Source - See Zimmerman Section above for downloads)
-* https://github.com/EricZimmerman/MFT (Source - See Zimmerman Section above for downloads)
+* https://github.com/EricZimmerman/MFTECmd (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
+* https://github.com/EricZimmerman/MFT (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
 ### Browsers
 
 #### Chrome
