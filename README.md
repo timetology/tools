@@ -1,6 +1,8 @@
 # Tools
 ## Host Forensics
-### $MFT
+
+### Windows
+#### $MFT
 * https://github.com/dkovar/analyzeMFT
 
 ### Browsers
