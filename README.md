@@ -38,6 +38,8 @@ OSX/macOS:	\[userdir\]/Library/Application Support/brave
 * https://github.com/obsidianforensics/hindsight
 
 ### Bits
+* https://dfrws.org/presentation/finding-your-naughty-bits/
+* https://mgreen27.github.io/posts/2018/02/18/Sharing_my_BITS.html
 #### Locations
 ```
 %%ALLUSERSPROFILE%%\Microsoft\Network\Downloader\*
