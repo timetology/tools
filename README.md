@@ -9,12 +9,34 @@
 * Wintriage - https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/
 * Live Response - https://www.brimorlabs.com/tools/
 * Ir Triage - https://github.com/AJMartel/IRTriage
+#### Logs
+* [Log Parser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+* [Event Log Explorer](https://eventlogxp.com/)
 #### $MFT
 * https://github.com/dkovar/analyzeMFT
 * https://github.com/EricZimmerman/MFTECmd (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
 * https://github.com/EricZimmerman/MFT (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
+#### Program Execution
+* https://github.com/timetology/ecat/tree/master/scripts/rmt
+* https://ericzimmerman.github.io/#!index.md
+#### Registry
+* https://github.com/keydet89/RegRipper3.0
+#### RDP
+##### RDP Bitmap Cache
+* https://countuponsecurity.com/tag/rdp-bitmap-cache/
+* https://github.com/ANSSI-FR/bmc-tools
+* https://security.opentext.com/appDetails/RDP-Cached-Bitmap-Extractor
+#### Shellbags
+##### Notes
+http://windowsir.blogspot.com/2012/08/shellbag-analysis.html
+https://www.4n6k.com/2013/12/shellbags-forensics-addressing.html
+https://volatility-labs.blogspot.com/2012/09/movp-32-shellbags-in-memory-setregtime.html
+#### LNK
+* https://github.com/silascutler/LnkParse
+* https://github.com/HarmJ0y/pylnker
+### Timeline
+* https://github.com/log2timeline/plaso
 ### Browsers
-
 #### Chrome
 ##### Notes
 * https://resources.infosecinstitute.com/topic/browser-forensics-google-chrome/
