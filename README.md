@@ -23,6 +23,7 @@
 * https://github.com/keydet89/RegRipper3.0
 #### RDP
 ##### RDP Bitmap Cache
+* https://www.allthingsdfir.com/do-you-even-bitmap-cache-bro/
 * https://countuponsecurity.com/tag/rdp-bitmap-cache/
 * https://github.com/ANSSI-FR/bmc-tools
 * https://security.opentext.com/appDetails/RDP-Cached-Bitmap-Extractor
