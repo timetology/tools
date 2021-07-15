@@ -22,4 +22,4 @@
 * [Office 365 Extractor of the Unified Audit Log (UAL)](https://github.com/jrentenaar/Office-365-Extractor)
 * [OfficeDev o365 Investigation Tooling](https://github.com/OfficeDev/O365-InvestigationTooling)
 ## To Read
-* https://m365internals-com.cdn.ampproject.org/v/s/m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/
+* https://m365internals-com.cdn.ampproject.org/v/s/m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/amp/?amp_gsa=1&amp_js_v=a6&usqp=mq331AQIKAGwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16263178386393&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fm365internals.com%2F2021%2F07%2F13%2Fwhat-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad%2F
