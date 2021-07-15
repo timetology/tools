@@ -21,3 +21,5 @@
 * [Hawk - Powershell Based tool for gathering information related to O365 intrusions and potential Breaches](https://github.com/Canthv0/hawk)
 * [Office 365 Extractor of the Unified Audit Log (UAL)](https://github.com/jrentenaar/Office-365-Extractor)
 * [OfficeDev o365 Investigation Tooling](https://github.com/OfficeDev/O365-InvestigationTooling)
+## To Read
+* https://m365internals-com.cdn.ampproject.org/v/s/m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/
