@@ -85,3 +85,10 @@ C:\ProgramData\Microsoft\Network\Downloader\qmgr1.dat
 #### Parsers
 * https://github.com/ANSSI-FR/bits_parser
 * https://github.com/fireeye/BitsParser
+## Malware Analysis
+### Dynamic Analysis
+* https://github.com/Rurik/Noriben
+### Static Analysis
+* https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html
+* https://github.com/fireeye/capa
+* 
