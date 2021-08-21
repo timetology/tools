@@ -1,4 +1,9 @@
-## Office 365 Security Useful Links
+# Office 365
+
+## Logging
+* https://zolder.io/office-365-audit-logging/
+
+##Security Useful Links
 * [Background information on o365 forwarding](https://logrhythm.com/blog/detecting-and-preventing-auto-forwarding-and-phishing-attacks-in-office-365/)
 * [Top 10 ways to secure Office 365 and Microsoft 365 Business plans](https://docs.microsoft.com/en-us/office365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide)
 * [Office 365 security roadmap - Top priorities for the first 30 days, 90 days, and beyond](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/security-roadmap)
