@@ -37,10 +37,13 @@ https://volatility-labs.blogspot.com/2012/09/movp-32-shellbags-in-memory-setregt
 * https://github.com/HarmJ0y/pylnker
 ### Timeline
 * https://github.com/log2timeline/plaso
+### Yara
+* https://github.com/Neo23x0/Loki
 ### Memory
 * Volatility
 * https://github.com/andreafortuna/autotimeliner
 * https://github.com/andreafortuna/malhunt
+* https://www.fireeye.com/services/freeware/redline.html
 ### Browsers
 #### Chrome
 ##### Notes
