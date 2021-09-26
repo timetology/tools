@@ -16,6 +16,8 @@
 * https://github.com/dkovar/analyzeMFT
 * https://github.com/EricZimmerman/MFTECmd (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
 * https://github.com/EricZimmerman/MFT (Source - See [Zimmerman Section](https://github.com/timetology/tools/blob/master/README.md#zimmerman) for downloads)
+#### $USNJRNL - $USN Journal
+* https://github.com/PoorBillionaire/USN-Journal-Parser
 #### Program Execution
 * https://github.com/timetology/ecat/tree/master/scripts/rmt
 * https://ericzimmerman.github.io/#!index.md
