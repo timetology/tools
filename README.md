@@ -51,6 +51,7 @@ https://volatility-labs.blogspot.com/2012/09/movp-32-shellbags-in-memory-setregt
 * [Log Parser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
 * [Event Log Explorer](https://eventlogxp.com/)
 ##### Windows User Access Logs (UAL)
+`C:\Windows\System32\LogFiles\SUM`
 * https://svch0st.medium.com/windows-user-access-logs-ual-9580f1100635
 * https://github.com/brimorlabs/KStrike
 * https://github.com/EricZimmerman/Sum
