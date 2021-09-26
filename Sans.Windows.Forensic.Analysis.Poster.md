@@ -159,12 +159,53 @@ When you run SrumECmd, you will likely encounter an error message that states th
 ### Location
 ### Interpretation
 ### Tools
+* https://github.com/keydet89/RegRipper3.0
 
 ## Jump Lists
 ### Description
 ### Location
 ### Interpretation
 ### Tools
+* https://github.com/kacos2000/Win10/blob/master/JumpList/readme.md
+
+## BAM / DAM (Windows Background Activity Moderator)
+### Description
+Windows Background Activity Moderator (BAM)
+### Location
+#### Win10
+`C:\Windows\system32\config\SYSTEM`
+* SYSTEM\CurrentControlSet\Services\bam\UserSettings\{SID} 
+* SYSTEM\CurrentControlSet\Services\dam\UserSettings\{SID}
+### Interpretation
+Provides full path of the executable file that was run on the system and last execution date/time
+### Tools
+* https://github.com/keydet89/RegRipper3.0
+* https://github.com/Ektoplasma/BamParser
+* https://github.com/prolsen/bam
+* https://github.com/kacos2000/Win10/blob/master/Bam/readme.md
+* https://github.com/kacos2000/Win10/blob/master/Bam/bamoffline.ps1
+#### Win10 v1809 & v1903
+* https://github.com/kacos2000/Win10/blob/master/Bam/bamoffline1.ps1
+
+## MuiCache (Not in the Poster but adding here anyway
+### Description
+Each time that you start using a new application, Windows operating system automatically extract the application name from the version resource of the exe file, and stores it for using it later, in Registry key known as the 'MuiCache'.
+### Location
+#### Win7+
+`C:\users\<user>\ntuser.dat`
+`C:\users\<user>\AppData\Local\Microsoft\Windows\usrclass.dat`
+
+The location of the MUICache data in the registry prior to Windows Vista is: `HKEY_CURRENT_USER\Software\Microsoft\Windows\ShellNoRoam\MUICache`
+
+Starting with Windows Vista, MUICache data is stored in `HKEY_CURRENT_USER\Software\Classes\Local\Settings\Software\Microsoft\Windows\Shell\MuiCache`
+### Interpretation
+Extracts the Last Write, name and data from the MuiCache in NTUSER.DAT or USRCLASS.DAT
+https://openmuifile.com/muicache.html
+
+### Tools
+* https://github.com/timetology/ecat/blob/master/scripts/rmt/3_Aggregators/muicache.py
+* https://www.nirsoft.net/utils/muicache_view.html
+
 # File / Folder Opening
 
 # Account Usage
