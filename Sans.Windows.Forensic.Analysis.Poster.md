@@ -171,8 +171,18 @@ Tracks the application executables used to open files in OpenSaveMRU and the las
 
 ## Jump Lists
 ### Description
+The Windows 7 task bar (Jump List) is engineered to allow users to “jump” or access items they have frequently or recently used quickly and easily. This functionality cannot only include recent media files; it must also include recent tasks.
+
+The data stored in the AutomaticDestinations folder will each have a unique file prepended with the AppID of the associated application.
 ### Location
+#### Win7/8/10:
+`C:\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations`
 ### Interpretation
+* First time of execution of application.
+  * Creation Time = First time item added to the AppID file.
+* Last time of execution of application w/file open.
+  * Modification Time = Last time item added to the AppID file.
+* List of Jump List IDs -> https://dfir.to/EZJumpList
 ### Tools
 * https://github.com/kacos2000/Win10/blob/master/JumpList/readme.md
 * https://ericzimmerman.github.io/ - JLECmd, JumpList Explorer
