@@ -156,8 +156,16 @@ When you run SrumECmd, you will likely encounter an error message that states th
 
 ## Last Visited MRU
 ### Description
+Tracks the specific executable used by an application to open the files documented in the OpenSaveMRU key. In addition, each value also tracks the directory location for the last file that was accessed by that application.
+Example: Notepad.exe was last run using the C:\%USERPROFILE%\ Desktop folder
 ### Location
+`C:\users\<user>\ntuser.dat`
+#### XP:
+NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedMRU
+#### Win7/8/10: 
+NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU
 ### Interpretation
+Tracks the application executables used to open files in OpenSaveMRU and the last file path used.
 ### Tools
 * https://github.com/keydet89/RegRipper3.0
 
@@ -167,6 +175,7 @@ When you run SrumECmd, you will likely encounter an error message that states th
 ### Interpretation
 ### Tools
 * https://github.com/kacos2000/Win10/blob/master/JumpList/readme.md
+* https://ericzimmerman.github.io/ - JLECmd, JumpList Explorer
 
 ## BAM / DAM (Windows Background Activity Moderator)
 ### Description
