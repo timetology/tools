@@ -148,9 +148,11 @@ When you run SrumECmd, you will likely encounter an error message that states th
 2. Ensure the .\SRU directory itself is not Read Only. This can be done by right clicking on the directory itself, Properties, and unchecking Read Only if it is checked.
 3. Open a PowerShell session as an Administrator in the directory where your copied files reside
 4. Execute this command within the PowerShell Admin session: `esentutl.exe /r sru /i`
+   1. https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh875546(v=ws.11)
 5. Try running SrumECmd again against the location where these repaired files reside:
 ### Tools
 * https://ericzimmerman.github.io/ - SrumECmd
+* https://github.com/MarkBaggett/srum-dump
 
 ## Last Visited MRU
 ### Description
