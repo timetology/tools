@@ -110,4 +110,6 @@ C:\ProgramData\Microsoft\Network\Downloader\qmgr1.dat
 ### Static Analysis
 * https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html
 * https://github.com/fireeye/capa
-* 
+
+## Peristence
+* https://www.andreafortuna.org/2017/07/06/malware-persistence-techniques/
