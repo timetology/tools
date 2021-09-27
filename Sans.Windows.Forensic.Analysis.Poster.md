@@ -183,9 +183,11 @@ The data stored in the AutomaticDestinations folder will each have a unique file
 * Last time of execution of application w/file open.
   * Modification Time = Last time item added to the AppID file.
 * List of Jump List IDs -> https://dfir.to/EZJumpList
+Each of the hexadecimal numbered streams contains data similar of that of a Windows Shortcut: data can be extracted and analyzed with a LNK parser.
 ### Tools
 * https://github.com/kacos2000/Win10/blob/master/JumpList/readme.md
 * https://ericzimmerman.github.io/ - JLECmd, JumpList Explorer
+* https://github.com/lcorbasson/lnk-parse
 
 ## BAM / DAM (Windows Background Activity Moderator)
 ### Description
