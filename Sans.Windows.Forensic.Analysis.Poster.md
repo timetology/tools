@@ -10,6 +10,9 @@ Notes based on the Sans DFIR Windows Forensic Analysis Poster - http://dfir.to/G
 * https://github.com/dkovar/analyzeMFT
 
 # Program Execution
+* https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
+* https://1234n6-my.sharepoint.com/:x:/p/adam/EU3Fk3ec6NdPsSQx1eA1sfwB_R_fRa4tJ4c1FR6WJlWIEA?e=GRyu7r
+* 
 ## Shimcache (AppCompatCache - Application Compatability Cache)
 ### Description
 * Windows Application Compatibility Database is used by Windows to identify possible application compatibility challenges with executables.
