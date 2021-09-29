@@ -18,12 +18,12 @@ Notes based on the Sans DFIR Windows Forensic Analysis Poster - http://dfir.to/G
 * Windows Application Compatibility Database is used by Windows to identify possible application compatibility challenges with executables.
 * Tracks the executables file name, file size, last modified time, and in Windows XP the last update time
 ### Location
+`C:\Windows\system32\config\SYSTEM`
 #### XP
 `SYSTEM\CurrentControlSet\Control\SessionManager\AppCompatibility`
 #### Win7/8/10:
 `SYSTEM\CurrentControlSet\Control\Session Manager\AppCompatCache`
-#### Win Disk Location
-`C:\Windows\system32\config\SYSTEM`
+
 ### Interpretation
 Any executable run on the Windows system could be found in this key. You can use this key to identify systems that specific malware was executed on. In addition, based on the interpretation of the time-based data you might be able to determine the last time of execution or activity on the system.
 * Windows XP contains at most 96 entries
@@ -35,7 +35,6 @@ Any executable run on the Windows system could be found in this key. You can use
 * https://github.com/mandiant/ShimCacheParser
 * https://ericzimmerman.github.io - AppCompatCacheParser
 * https://github.com/keydet89/RegRipper3.0
-* https://github.com/timetology/ecat/tree/master/scripts/rmt/3_Aggregators
 
 ## Amcache
 ### Description
