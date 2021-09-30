@@ -109,6 +109,7 @@ All values are ROT-13 Encoded • GUID for XP
 ### Tools
 * https://ericzimmerman.github.io/ - PECmd
 * https://github.com/PoorBillionaire/Windows-Prefetch-Parser/blob/master/windowsprefetch/windowsprefetch.py
+* https://github.com/bromiley/tools/tree/master/win10_prefetch
 ## Windows 10 Timeline
 ### Description
 Win10 records recently used applications and files in a “timeline” accessible via the “WIN+TAB” key. The data is recorded in a SQLite database.
