@@ -1,10 +1,10 @@
 # Awesome Lists of Tools
-https://github.com/meirwah/awesome-incident-response
-https://github.com/Cugu/awesome-forensics
-https://awesomedfir.com/dfir-tooling
-https://awesomeopensource.com/projects/incident-response
-https://dfirdiva.com/tools-and-distros/
-https://www.dfir.training/tools
+* https://github.com/meirwah/awesome-incident-response
+* https://github.com/Cugu/awesome-forensics
+* https://awesomedfir.com/dfir-tooling
+* https://awesomeopensource.com/projects/incident-response
+* https://dfirdiva.com/tools-and-distros/
+* https://www.dfir.training/tools
 
 # Tools
 
