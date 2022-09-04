@@ -20,6 +20,10 @@
 * Wintriage - https://www.securizame.com/wintriage-the-triage-tool-for-windows-dfirers/
 * Live Response - https://www.brimorlabs.com/tools/
 * Ir Triage - https://github.com/AJMartel/IRTriage
+* Cylr - https://github.com/orlikoski/CyLR
+* cdqr - https://github.com/orlikoski/CDQR
+* IR Rescue - https://github.com/diogo-fernan/ir-rescue
+* https://github.com/TazWake/Useful-Scripts-Etc/blob/master/DFIR_Collection_Guide.md
 #### $MFT
 * https://github.com/timetology/tools/blob/master/Sans.Windows.Forensic.Analysis.Poster.md#mft-analysis
 * https://github.com/dkovar/analyzeMFT
